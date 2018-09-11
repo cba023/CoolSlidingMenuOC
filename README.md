@@ -8,7 +8,7 @@
 ## 支持环境
 iOS 8+, iPhone & iPad
 ## 项目获取
-项目已经上传至github中, Swift版本： [CoolSlidingMenu](https://github.com/cba023/CoolSlidingMenu)(https://github.com/cba023/CoolSlidingMenu)，若要使用，请导入文件到您的项目，另有Objective-C版本 [CoolSlidingMenu](https://github.com/cba023/CoolSlidingMenuOC) (https://github.com/cba023/CoolSlidingMenuOC)。
+项目已经上传至github中, Swift版本： [CoolSlidingMenu](https://github.com/cba023/CoolSlidingMenu)(https://github.com/cba023/CoolSlidingMenu)， 若要使用，请导入文件到您的项目，另有Objective-C版本 [CoolSlidingMenu](https://github.com/cba023/CoolSlidingMenuOC) (https://github.com/cba023/CoolSlidingMenuOC)。
 简书地址：http://www.jianshu.com/p/375fe7984571
 
 ## 功能展示
